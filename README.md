@@ -1,4 +1,4 @@
-# debian
+# Debian
  Debian Repository for V2Ray
 
 ## Usage

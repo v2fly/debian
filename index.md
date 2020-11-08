@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+```bash
+# Install some prerequisites needed by adding GPG public keys
+$ sudo apt-get install gnupg ca-certificates curl
 
-You can use the [editor on GitHub](https://github.com/v2fly/debian/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Import our GPG key. Notice the hyphen at the end of line.
+$ curl -sSL https://v2fly.org/debian/pubkey.gpg | sudo apt-key add -
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Add the our official APT repository:
+$ echo "deb [arch=amd64] https://v2fly.org/debian/ $YOUR_DISTRIBUTION main" | sudo tee /etc/apt/sources.list.d/v2ray.list
 
-### Markdown
+# To update the APT index:
+$ sudo apt-get update
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+# You can install V2Ray from APT now:
+$ sudo apt-get install v2ray
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/v2fly/debian/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

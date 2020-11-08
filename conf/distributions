@@ -1,6 +1,6 @@
 Origin: V2Ray
 Label: V2Ray
-Codename: unstable
+Codename: stable
 Architectures: amd64
 Components: main
 Description: Apt repository for project V2Ray

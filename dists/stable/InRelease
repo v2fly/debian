@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: V2Ray
+Label: V2Ray
+Codename: stable
+Date: Mon, 09 Nov 2020 15:59:31 UTC
+Architectures: amd64
+Components: main
+Description: Apt repository for project V2Ray
+MD5Sum:
+ 12a39e7c40569d475e522e8f83f2a226 2167 main/binary-amd64/Packages
+ ac8e087e0de0bb0a6ade7081888f2649 776 main/binary-amd64/Packages.gz
+ 3688da606e155feda2a4f70fff8f5d04 109 main/binary-amd64/Release
+SHA1:
+ 99fec2bb80f4811f17eb7a88494a966f5f8f1a46 2167 main/binary-amd64/Packages
+ 0213c5cbdbe3b0e180f04b44f63376793ee78284 776 main/binary-amd64/Packages.gz
+ 9a3a0fe01f3f8be011b8619f000d5b65e4c00d52 109 main/binary-amd64/Release
+SHA256:
+ a83fe2207598228ed8558c4e650d0f9c1e5383cc94c8655de9342c21d5a93ef6 2167 main/binary-amd64/Packages
+ 26c7f631636730abd8146663c6cd613f56094c7603e93c48d8470dd9c553cf61 776 main/binary-amd64/Packages.gz
+ 2b5e4af1cb1d96ed74886d3e31ec57d5fa3429785a8ca4074a59fe50355fa1dd 109 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEErwVksak0zO25bTZhsk7P5f9104EFAl+pZ2MACgkQsk7P5f91
+04GiSw/8CuVFGj/Bk7Q5aAoSHrV1LOjni/yT4ZyK+1ShssWxDqMCIcWy97ZlNk0q
+1HfmiRrAvB/oTPVzXP9T+kZRjiJ3qM0MYlsltiPF+KjFCxTDXOtyQJWBZXM7G7xY
+B1Y78PtDC9gzBYA2dIjDwo1WC6qbHXImj7Ccqrox5HT3fy5izjlPH+MfSbkrEF1C
+3MguUAWJuLn/ne1cY4tY5VpR+ETRc+laXBi0gro+4ZXNqAIYX0LL2AlxcPLjMqP/
+gbSYg5xjcEIDsFIOPXzumk0bYCaCsEdZgtg0F51HT5AWofk8K1H13lJf7pC81VJs
+NknswYekeKE0MZAIvgbTScMzx5ZsICbbrqVApgjGX59wsov1njn04Xo5opEtMl5K
+/fB84lLUYl8XSwOd6FM75d5641S20ZpDELTd3WuPTySTwTGKD5GssfPdnJ0dnz2c
+aSWlGLBOtpDSnFOo1Ua32C6suGxqi3wBAeMShc6oGTC00LftO17bWCrf6g1gsOAr
+sTiN6RlDap6csC9d1S+yt+KdjHpN/0Z17y1EwrceqSdMAz0y1LYAmKStCNyvzkU+
+F1RZa0yaarz9AQorV5Wm9/EbM/a5khx24uyiRO/2ghGVOJkugFFcKZh2iK+FhtVU
+vR8BOlM68Gkv/8c+F3icDUVs+xe1iu4oO5DpZ+Ww2IHZblVa3fU=
+=/jfQ
+-----END PGP SIGNATURE-----

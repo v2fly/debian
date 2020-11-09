@@ -1,0 +1,59 @@
+Package: v2ray
+Source: v2ray-core
+Version: 4.32.1-1
+Architecture: amd64
+Maintainer: ymshenyu <ymshenyu@gmail.com>
+Installed-Size: 34889
+Depends: libc6 (>= 2.4)
+Recommends: v2ray-domain-list-community, v2ray-geoip
+Homepage: https://github.com/v2fly/v2ray-core
+Priority: optional
+Section: net
+Filename: pool/main/v/v2ray-core/v2ray_4.32.1-1_amd64.deb
+Size: 9473400
+SHA256: 006f11cd0de5bdfe09904126562e9fae08a7a1cf37d357c825e3994514423d4e
+SHA1: b3ae86e7c6782827fddf3210ee98b1a51264d25b
+MD5sum: 954a50549317ee1806e6e11bb3ee302d
+Description: Library platform for building proxies in golang
+ Project V2Ray is a set of network tools that help you to build your
+ own computer network. It secures your network connections and thus
+ protects your privacy.
+
+Package: v2ray-domain-list-community
+Source: v2ray-core
+Version: 4.32.1-1
+Architecture: amd64
+Maintainer: ymshenyu <ymshenyu@gmail.com>
+Installed-Size: 929
+Homepage: https://github.com/v2fly/v2ray-core
+Priority: optional
+Section: net
+Filename: pool/main/v/v2ray-core/v2ray-domain-list-community_4.32.1-1_amd64.deb
+Size: 93308
+SHA256: f2823e7cab96ce1fef4a8dce54a6dde3d33382f51b3d81d1b47ce867350215b6
+SHA1: d396a8b1011439071f6e6116e78edb4f5b0b9bd6
+MD5sum: 088a12f40ae8f95bdb0f35c660e3832f
+Description: Library platform for building proxies in golang (routing file)
+ Project V2Ray is a set of network tools that help you to build your
+ own computer network. It secures your network connections and thus
+ protects your privacy.
+
+Package: v2ray-geoip
+Source: v2ray-core
+Version: 4.32.1-1
+Architecture: amd64
+Maintainer: ymshenyu <ymshenyu@gmail.com>
+Installed-Size: 5055
+Homepage: https://github.com/v2fly/v2ray-core
+Priority: optional
+Section: net
+Filename: pool/main/v/v2ray-core/v2ray-geoip_4.32.1-1_amd64.deb
+Size: 729736
+SHA256: 3115a9a2e6cf3c10fc2d4fb5fa5ed650109dd6d35c5a2daac4714669089d9ebe
+SHA1: 61d84aaab40e6a3905844e1e21903a933b017845
+MD5sum: d3a4a5b263c8eb00e8e34b00d922e8b1
+Description: Library platform for building proxies in golang (routing file)
+ Project V2Ray is a set of network tools that help you to build your
+ own computer network. It secures your network connections and thus
+ protects your privacy.
+

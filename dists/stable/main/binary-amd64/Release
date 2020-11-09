@@ -1,0 +1,5 @@
+Component: main
+Origin: V2Ray
+Label: V2Ray
+Architecture: amd64
+Description: Apt repository for project V2Ray

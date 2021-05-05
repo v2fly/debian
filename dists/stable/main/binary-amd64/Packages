@@ -1,19 +1,19 @@
 Package: v2ray
 Source: v2ray-core
-Version: 4.37.3-1
+Version: 4.38.3-1
 Architecture: amd64
 Maintainer: ymshenyu <ymshenyu@gmail.com>
-Installed-Size: 28502
+Installed-Size: 30636
 Depends: libc6 (>= 2.4)
 Recommends: v2ray-domain-list-community, v2ray-geoip
 Homepage: https://github.com/v2fly/v2ray-core
 Priority: optional
 Section: net
-Filename: pool/main/v/v2ray-core/v2ray_4.37.3-1_amd64.deb
-Size: 7716824
-SHA256: 4608019ed46939994c165a6d2fa646c0031f893fe43278c88fea4e1713b606d0
-SHA1: c400c640a74ec8ce18ca4fa6e0b71b34e6909c1a
-MD5sum: 111f3712b35d0a7d1f3019920af73c07
+Filename: pool/main/v/v2ray-core/v2ray_4.38.3-1_amd64.deb
+Size: 8279612
+SHA256: fc1e1e05703cf7befcfa0d526309532d75159f60b8a0e76874a454d5ae523f1e
+SHA1: db34d47fe38c7b12b84d5513e458d7e5f3d7cfee
+MD5sum: 6036042d78aa1345011281b4c54ec50c
 Description: Library platform for building proxies in golang
  Project V2Ray is a set of network tools that help you to build your
  own computer network. It secures your network connections and thus
@@ -21,18 +21,18 @@ Description: Library platform for building proxies in golang
 
 Package: v2ray-domain-list-community
 Source: v2ray-core
-Version: 4.37.3-1
+Version: 4.38.3-1
 Architecture: amd64
 Maintainer: ymshenyu <ymshenyu@gmail.com>
-Installed-Size: 1030
+Installed-Size: 1035
 Homepage: https://github.com/v2fly/v2ray-core
 Priority: optional
 Section: net
-Filename: pool/main/v/v2ray-core/v2ray-domain-list-community_4.37.3-1_amd64.deb
-Size: 104976
-SHA256: 9177e109e4d2bb80ba5a6accaf3ad945cb45b05c459ba47e433a8af9e390d471
-SHA1: 2bde6b2925b3dfcb97c24d00894b807c3480de4e
-MD5sum: d6631712ba58d0f18d5d5a6d4ee0828d
+Filename: pool/main/v/v2ray-core/v2ray-domain-list-community_4.38.3-1_amd64.deb
+Size: 106184
+SHA256: 00c2a41fe84dd0e968dc33f51a518e84de21e281c2846d76e7814ec18736cf15
+SHA1: b1780549bfca3bbe51d396b2328520f110105639
+MD5sum: 0f2fa24b0214501a0c6431df4fb21439
 Description: Library platform for building proxies in golang (routing file)
  Project V2Ray is a set of network tools that help you to build your
  own computer network. It secures your network connections and thus
@@ -40,18 +40,18 @@ Description: Library platform for building proxies in golang (routing file)
 
 Package: v2ray-geoip
 Source: v2ray-core
-Version: 4.37.3-1
+Version: 4.38.3-1
 Architecture: amd64
 Maintainer: ymshenyu <ymshenyu@gmail.com>
-Installed-Size: 5171
+Installed-Size: 5220
 Homepage: https://github.com/v2fly/v2ray-core
 Priority: optional
 Section: net
-Filename: pool/main/v/v2ray-core/v2ray-geoip_4.37.3-1_amd64.deb
-Size: 756956
-SHA256: 8f397affaff692ba5472db3e620354c5b53482d5c117f5cfe61c6b7dff1ed7f0
-SHA1: afb064a0b2411fea04c3ba2720c526323455ba87
-MD5sum: b0181ad0a4671960eda9199b8f122ba3
+Filename: pool/main/v/v2ray-core/v2ray-geoip_4.38.3-1_amd64.deb
+Size: 766132
+SHA256: d9371de40d89d0c653919026d520e94a0e687e640314fc74a273937c93deed75
+SHA1: 6c1b53ba89334964afb8e11ad64c6ee8fd353a1e
+MD5sum: 2616dd602d16ba842f24f7c03f79931f
 Description: Library platform for building proxies in golang (routing file)
  Project V2Ray is a set of network tools that help you to build your
  own computer network. It secures your network connections and thus

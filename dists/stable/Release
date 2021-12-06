@@ -1,19 +1,19 @@
 Origin: V2Ray
 Label: V2Ray
 Codename: stable
-Date: Mon, 20 Sep 2021 23:05:29 UTC
+Date: Mon, 06 Dec 2021 14:08:49 UTC
 Architectures: amd64
 Components: main
 Description: Apt repository for project V2Ray
 MD5Sum:
- f473594f91f8279744a0dc1dcc7dafd5 2924 main/binary-amd64/Packages
- 6babc60f37d4d5442f3635ec7e314e6a 908 main/binary-amd64/Packages.gz
+ 559a9db0fe0f7649dcb026d01b5ed69f 2924 main/binary-amd64/Packages
+ d6780e39438860d5740a0dfb5ce75e10 907 main/binary-amd64/Packages.gz
  3688da606e155feda2a4f70fff8f5d04 109 main/binary-amd64/Release
 SHA1:
- 8871441945d2e7c1e6c69ecd922088e5bc3db7b4 2924 main/binary-amd64/Packages
- 370d22a083fa99a956fa78476ed047e590d86af8 908 main/binary-amd64/Packages.gz
+ 957ab5c8a0cc298f39d27798619d0d96f41ac44d 2924 main/binary-amd64/Packages
+ 2bc4bf20b36041543cc4ae12960fd7f4082b7e9f 907 main/binary-amd64/Packages.gz
  9a3a0fe01f3f8be011b8619f000d5b65e4c00d52 109 main/binary-amd64/Release
 SHA256:
- 0e5e741e6de0a814c54d9ec8b980dcef20378b9e8290d7946f481eeb3219f5e3 2924 main/binary-amd64/Packages
- bbf53c700783f863ef44ee21e282b275790633ff721ce8bbb00031b674f8e28d 908 main/binary-amd64/Packages.gz
+ 59ac71611b788ecbdb167ec3e18545416e1c8fe9b1ff48a9a5c10e9c2b24644f 2924 main/binary-amd64/Packages
+ dc065860c2d86268f6a13c74c0fda058ac96c47b346e7b7c060a7a9c8df30fc8 907 main/binary-amd64/Packages.gz
  2b5e4af1cb1d96ed74886d3e31ec57d5fa3429785a8ca4074a59fe50355fa1dd 109 main/binary-amd64/Release
